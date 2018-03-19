@@ -1,0 +1,160 @@
+{
+  "basics": {
+    "name": "Rui Lancheros",
+    "label": "Développeur Front-End junior",
+    "picture": "",
+    "email": "ruilancheros@gmail.com",
+    "phone": "(438) 395-8517",
+    "website": "",
+    "summary": "Responsable et engagé je suis passionné par le monde du WEB. Ma force, la programmation. Ma formation jumelée à ma  riche expérience au service à la clientèle me permet de bien cibler les besoins. Méthodique et organisé dans mon travail j’ai de la facilité à réaliser un projet du début à la fin.  Joindre votre équipe serait pour moi l’opportunité de poursuivre mes apprentissages.                                                                                      ",
+    "location": {
+      "address": "2373 rue Nicolas-Pinel",
+      "postalCode": "G1V 4J1",
+      "city": "Québec",
+      "countryCode": "CA",
+      "region": "Québec"
+    },
+    "profiles": [
+      {
+        "network": "wordpress",
+        "username": "ruilancheros",
+        "url": "https://timblogues2017ruiygorlancherosbautista.wordpress.com/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Proof Experiences ",
+      "position": "Ambassadeur de marque",
+      "website": "https://www.proofexperiences.com",
+      "startDate": "2016",
+      "endDate": "2017",
+      "summary": "",
+      "highlights": [
+        "Aborder avec enthousiasme et courtoisie les clients pour faire tester les nouveaux produits  ",
+        "Monter et démonter un kiosque d’information",
+        "Planifier avec l’équipe les meilleures stratégies de marketing."
+      ]
+    },
+    {
+      "company": "Banque Royal du Canada",
+      "position": "Conseiller bancaire",
+      "website": "rbc.com",
+      "startDate": "2016",
+      "endDate": "2016",
+      "summary": "",
+      "highlights": [
+        "Conseiller les clients sur les comptes et produits bancaires.",
+        "Aider les clients avec les transactions bancaires et les guider sur la plateforme web ",
+        "Enregistrer et modifier les informations dans les bases de données "
+      ]
+    },
+    {
+      "company": "S-Trip",
+      "position": "Coordinateur de voyage\t",
+      "website": "https://www.s-trip.com/",
+      "startDate": "2015",
+      "endDate": "2016",
+      "summary": "",
+      "highlights": [
+        "Coordonner le transport, l’hôtel et les repas des étudiants avec escale à l’aéroport Pierre Elliot Trudeau de Montréal",
+        "Résoudre les situations problématiques ",
+        "Communiquer avec le bureau central pour assurer la satisfaction de la clientèle."
+      ]
+    },
+    {
+      "company": "Convergys",
+      "position": "Chef d’équipe",
+      "website": "convergys.com",
+      "startDate": "2012",
+      "endDate": "2015",
+      "summary": "",
+      "highlights": [
+        "Superviser une équipe de travail",
+        "Mettre en pratique différents techniques de rétroaction des employés afin d’améliorer les attitudes communicationnelles ",
+        "Rédiger le rapport semestriel de performance",
+        "Anticiper des problèmes potentiels afin de planifier des stratégies pour les résoudre.",
+        "Diriger les rencontres hebdomadaires avec l’équipe de travail."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Cégep de Sainte-Foy ",
+      "area": "techniques d’intégration multimédia",
+      "studyType": "Études collégiales ",
+      "startDate": "2017",
+      "endDate": "2020",
+      "gpa": "",
+      "courses": [
+        "582-201-SF Programmation Web et Multimédia ",
+        "582-202-SF Design d'interphase II",
+        "582-204-SF Intégration II"
+      ]
+    },
+    {
+      "institution": "Universidad Nacional de Colombia",
+      "area": "Sciences politiques et sociales",
+      "studyType": "Baccalauréat ",
+      "startDate": "2005",
+      "endDate": "2009",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Traitement et optimisation des médias ",
+      "level": "",
+      "keywords": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Adobe Muse",
+        "Sketch"
+      ]
+    },
+    {
+      "name": "Animation",
+      "level": "",
+      "keywords": [
+        "Adobe Animate"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "fluency": ""
+    },
+    {
+      "language": "Anglais",
+      "fluency": ""
+    },
+    {
+      "language": "Espagnol",
+      "fluency": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "La basse, les instruments de musique exotiques et la randonnée en plein air",
+      "keywords": [
+        "",
+        ""
+      ]
+    }
+  ],
+  "references": []
+}
